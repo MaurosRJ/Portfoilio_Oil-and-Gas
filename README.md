@@ -10,7 +10,7 @@ This project focuses on analyzing historical oil and gas well data in New York t
 - Create visualizations to present findings clearly and effectively.
 
 ## Dataset
-- **Source**: Historical oil and gas well data in New York (titled: `oil-gas-other-regulated-wells-beginning-1860`).
+- **Source**: Kaggle: Historical oil and gas well data in New York (titled: `oil-gas-other-regulated-wells-beginning-1860`).
 - **Time Range**: 1870 to 2018, with the analysis focusing on entries up to the early 1950s.
 - **Features**:
   - Well ID
@@ -38,13 +38,13 @@ This project focuses on analyzing historical oil and gas well data in New York t
 
 ## Tools and Technologies
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Data Visualization**: Tableau, Power BI
+- **Data Visualization**: Power BI
 - **Geospatial Analysis**: Folium, Geopandas
 - **Data Storage and Management**: SQL, CSV format
 
 ## Results
-- Identified [X]% of wells as active, with a significant portion of inactive wells concentrated in specific regions.
-- Highlighted trends in well installations, with peak activity occurring between [year range].
+- Identified percentage of active wells, with a significant portion of inactive wells concentrated in specific regions.
+- Highlighted trends in well installations, with peak plugged wells activity occurring between 1965 -1993 according to data.
 - Provided recommendations for prioritizing well reactivations based on production potential and geographical considerations.
 
 ## Challenges and Solutions
